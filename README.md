@@ -12,4 +12,4 @@ The challenge offers three subtasks on news articles: Entity Framing, Narrative 
 
 We took part to the Entity Framing subtask, making use of a combination of both encoder-only and decoder-only models. More in depth, in this work we use LLaMa 3.2 3B to address the classification task, retrieving properly examples from a training dataset according to the cosine similarities between training and test samples. Vectorization of texts is performed via BERT.
 
-Group project done by Mattia Viglino, Vincenzo Montana and Arturo Adelfio.
+Group project done by Mattia Viglino, Vincenzo Montana and Arturo Adelfio. 
